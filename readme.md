@@ -46,13 +46,16 @@
 		-x2nie [Lazarus 1.3 patch for non LCL form designer!] 
 			http://github.com/x2nie/LiteZarus
 
-		-Fatih KILIÇ - How To Install!
+		-Fatih KILIÃ‡ - How To Install!
 			http://www.youtube.com/watch?v=sQnFYJyltwY&list=UUkQrLhaIXrKY4eq9zTymxpQ
 
 		-Thierry Dijoux - Late: Apk Expert Tools [Build, Install, ...]
 
 		-Anton [at github/odisey1245] - many many contributions!
 
+		-Ahmad Tauhid - Tutorial - [http://www.tauhidslab.my.id] 
+			Ref. http://www.tauhidslab.my.id/2020/01/membuat-aplikasi-android-menggunakan.html
+			
 		-JC99 - The Wiki-Page - Tutorial 
 			Ref. http://wiki.freepascal.org/Talk:Android_tutorial
 
@@ -981,7 +984,7 @@ Version 0.6 - rev. 32 - 05 July 2015 -
 							rowPosition = -1 --> move to last!
 		
 		jHttpClient 
-			New! synchronous methods:  // <<---- by Fatih KILIÇ 
+			New! synchronous methods:  // <<---- by Fatih KILIÃ‡ 
 				Get(url): string				
 
 				AddNameValueData(name,value)
@@ -1965,8 +1968,8 @@ Version 0.6 - 15 October 2014 -
 			                          
 Version 0.5 - rev. 03 - 17 august 2014 -
 
-	:: New jLocation Component: Add Partial Support for Location Object //<<---- A suggestion and request by Fatih KILIÇ
-	:: New jPreference Component: Add Partial Support for Preferences Object //<<---- A suggestion and request by Fatih KILIÇ
+	:: New jLocation Component: Add Partial Support for Location Object //<<---- A suggestion and request by Fatih KILIÃ‡
+	:: New jPreference Component: Add Partial Support for Preferences Object //<<---- A suggestion and request by Fatih KILIÃ‡
 	:: NEW AppLocationDemo [Eclipse Project] 
 
 Version 0.5 - rev. 02 - 14 june 2014 -
